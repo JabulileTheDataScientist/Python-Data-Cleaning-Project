@@ -1,2 +1,2 @@
 # Python-Data-Cleaning-Project
-This project contains a very messy dataset scraped directly from the website of an app that allows people to log their fuel consumption. It is meant to demonstrate my data cleaning skills at a higher level.
+This project features a raw and unstructured dataset, scraped directly from a website where users log their fuel consumption. It is designed to showcase my advanced data cleaning skills using Python.
